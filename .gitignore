@@ -1,0 +1,16 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Ignorar entornos virtuales
+venv/
+env/
+
+# Ignorar archivos de configuración específicos de IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
