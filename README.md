@@ -15,6 +15,12 @@ Este proyecto implementa un cifrado y descifrado sencillo utilizando la operaci√
 - Python 3.x
 - Tkinter (generalmente preinstalado en Python 3)
 
+Por experiencia propia (sobre todo en Linux) se debe verificar o instalar python-tk:
+
+```BASH
+sudo apt-get install python3-tk
+```
+
 ## Instalaci√≥n
 
 Para instalar y ejecutar el proyecto, sigue estos pasos:
